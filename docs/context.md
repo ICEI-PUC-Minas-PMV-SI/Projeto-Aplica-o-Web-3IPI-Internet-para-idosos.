@@ -1,11 +1,14 @@
 # Introdução
 
-Projeto criado com o intuito de ajudar pessoas idosas ou pessoas sem conhecimento de informática básica, a entender as funcionalidades da computação por meio de um blog explicativo e de fácil entendimento para qualquer pessoa. Atualmente os dias estão cada vez mais corridos, e o tempo livre ainda mais curto, então poucas pessoas tem tempo ou a paciência o suficiente para ensinar a como utilizar um computador para pessoas que nunca aprenderam. Com isso, o blog será justamente para pessoas sem tempo que apenas precisarão acessar o site e deixar que ensinaremos o básico e o necessário para a pessoa a qual foi destinada. O público alvo são pessoas que não entendem muito de computação, mas não há pessoas a sua volta com tempo para lhe ensinar.
+Projeto criado com o intuito de ajudar pessoas idosas ou pessoas sem conhecimento de informática básica, a entender as funcionalidades da computação por meio de um blog explicativo e de fácil entendimento para qualquer pessoa.
+
+ Com isso, o blog será justamente para pessoas sem tempo que apenas precisarão acessar o site e deixar que ensinaremos o básico e o necessário para a pessoa a qual foi destinada. O público alvo são pessoas que não entendem muito de computação, mas não há pessoas a sua volta com tempo para lhe ensinar.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Atualmente os dias estão cada vez mais corridos, e o tempo livre ainda mais curto, então poucas pessoas tem tempo ou a paciência o suficiente para ensinar a como utilizar um computador para pessoas que nunca aprenderam.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Como explicado no parágrafo anterior, muitas pessoas não tem tempo em seu dia a dia, tendo a seguinte ficção como exemplo:
+" Sou uma mãe que reside com meus dois filhos e meu pai, já de idade, meu pai não sabe nem mesmo ligar um computador, e vive insistindo que eu lhe ajude a entender como funciona para que ele possa acessar e utilizar um computador, porém, como sou mãe com dois filhos pequenos e um trabalho, não tenho tempo o suficiente para o ensinar"
 
 Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
