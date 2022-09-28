@@ -12,26 +12,20 @@ Como explicado no parágrafo anterior, muitas pessoas não tem tempo em seu dia 
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo central do projeto, será incentivar as pessoas que nunca tiveram acesso a computação, à entrar nessa nova era da tecnologia, o projeto será criar um blog informativo, em formato de um site, onde o aprendiz terá apenas que ler, e ver imagens de fácil entendimento, com instruções e passo a passo de como utilizar um computador, para as mais diferças finalidades de seu interesse. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Com o foco de atrair mais pessoas para essa nova era digital, concluímos que devemos ensinar a base, que é justamente a parte mais importante para que o estudante possa seguir em sua jornada pela computação. 
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Como citado na ficção do parágrafo "problema", a falta de tempo para ensinar as pessoas de idade ou sem conhecimento tecnológico a navegar pela internet, é um dos maiores empecilhos na qual dificulta a ingressão dessas pessoas. Com isso, a facilidade na qual o blog será feito, facilitará e permitirá que muitos aprendam e até mesmo consigam mudar de vida por meio da computação, pois a informática básica, é a porta de entrada para a computação.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Os usuários do blog 3ª IPI serão pessoas às quais nunca tiveram acesso a computação, com o principal foco em pessoas de idades mais avançadas, mas sempre de portas abertas a qualquer idade que queira aprender computação básica de forma fácil e segura.
+Requisitos: Português PT-BR ( Básico / Intermediário ), Capacidade de ler e de utilizar periféricos ( mouse e teclado ).
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
