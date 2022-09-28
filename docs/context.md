@@ -10,13 +10,6 @@ Atualmente os dias estão cada vez mais corridos, e o tempo livre ainda mais cur
 Como explicado no parágrafo anterior, muitas pessoas não tem tempo em seu dia a dia, tendo a seguinte ficção como exemplo:
 " Sou uma mãe que reside com meus dois filhos e meu pai, já de idade, meu pai não sabe nem mesmo ligar um computador, e vive insistindo que eu lhe ajude a entender como funciona para que ele possa acessar e utilizar um computador, porém, como sou mãe com dois filhos pequenos e um trabalho, não tenho tempo o suficiente para o ensinar"
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 
 Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
