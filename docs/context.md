@@ -1,6 +1,6 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Projeto criado com o intuito de ajudar pessoas idosas ou pessoas sem conhecimento de informática básica, a entender as funcionalidades da computação por meio de um blog explicativo e de fácil entendimento para qualquer pessoa. Atualmente os dias estão cada vez mais corridos, e o tempo livre ainda mais curto, então poucas pessoas tem tempo ou a paciência o suficiente para ensinar a como utilizar um computador para pessoas que nunca aprenderam. Com isso, o blog será justamente para pessoas sem tempo que apenas precisarão acessar o site e deixar que ensinaremos o básico e o necessário para a pessoa a qual foi destinada. O público alvo são pessoas que não entendem muito de computação, mas não há pessoas a sua volta com tempo para lhe ensinar.
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
