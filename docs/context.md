@@ -27,10 +27,4 @@ Como citado na ficção do parágrafo "problema", a falta de tempo para ensinar 
 Os usuários do blog 3ª IPI serão pessoas às quais nunca tiveram acesso a computação, com o principal foco em pessoas de idades mais avançadas, mas sempre de portas abertas a qualquer idade que queira aprender computação básica de forma fácil e segura.
 Requisitos: Português PT-BR ( Básico / Intermediário ), Capacidade de ler e de utilizar periféricos ( mouse e teclado ).
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
