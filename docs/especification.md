@@ -6,18 +6,10 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Maria, mora com os dois filhos e seu pai já de idade, por ser de um tempo mais antigo, não teve muito acesso à área digital, e necessitava da ajuda de sua filha, porém, por precisar cuidar e sustentar toda a casa, não havia tempo disponível para ajudar seu pai a entender como funciona o meio computacional. Porém, a internet com toda sua modernidade, está excluindo cada vez mais as pessoas de idades avançadas de suas atividades tecnológicas, impossibilitando, a interação do mesmo com o meio digital. Sentindo falta de um site/blog para lhe ensinar o básico o suficiente para que o senhor(a) possa utilizar a internet de modo independente, sem a necessidade da ajuda de terceiros.
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
 Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
