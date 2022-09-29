@@ -8,10 +8,6 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Maria, mora com os dois filhos e seu pai já de idade, por ser de um tempo mais antigo, não teve muito acesso à área digital, e necessitava da ajuda de sua filha, porém, por precisar cuidar e sustentar toda a casa, não havia tempo disponível para ajudar seu pai a entender como funciona o meio computacional. Porém, a internet com toda sua modernidade, está excluindo cada vez mais as pessoas de idades avançadas de suas atividades tecnológicas, impossibilitando, a interação do mesmo com o meio digital. Sentindo falta de um site/blog para lhe ensinar o básico o suficiente para que o senhor(a) possa utilizar a internet de modo independente, sem a necessidade da ajuda de terceiros.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
-
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
