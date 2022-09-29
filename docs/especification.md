@@ -23,7 +23,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
+|ID    | Descrição do Requisito  | Prioridade | |
 |------|-----------------------------------------|----| ----|
 |RF-001| Permitir que o usuário escolha o nível  | ALTA | 
 |RF-002| Fazer com que o usuário ententa o máximo possível   | MÉDIA |
