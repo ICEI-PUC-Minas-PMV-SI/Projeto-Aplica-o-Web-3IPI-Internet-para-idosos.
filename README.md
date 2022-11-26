@@ -6,7 +6,8 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Projeto 3ª IPI tem por objetivo em dar os ensinamentos básicos sobre computação à pessoas que não conhecem a internet e seu contorno como um todo.
+Após a utilização da plataforma, a pessoa vai conhecer os básicos e o necessário para estar navegando pela internet e com o suficiente para conseguir ir além dos seus estudos.
 
 ## Integrantes
 
