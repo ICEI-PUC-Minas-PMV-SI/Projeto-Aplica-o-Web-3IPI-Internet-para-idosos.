@@ -1,6 +1,6 @@
 # Programação de Funcionalidades
 
-Menu de completa interação para navegar por todo o site.
+Menu de completa interação para navegar por todo o site e conteúdos.
 
 ![Funcionalidade ](https://user-images.githubusercontent.com/107358955/203879432-4f4a784f-1673-4a6b-9819-f1e2ec625e0c.png)
 
