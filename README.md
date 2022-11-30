@@ -20,7 +20,7 @@ Após a utilização da plataforma, a pessoa vai conhecer os básicos e o necess
 
 # Planejamento
 
-| Etapa         | Atividades | Progresso |
+| Etapa         | Atividades ||
 |  :----:   | ----------- | --- |
 | ETAPA 1         |[Documentação de Contexto](docs/context.md) <br> [Especificação do Projeto](docs/especification.md) | ✅ |
 | ETAPA 2         |[Projeto de Interface](docs/interface.md) <br> [Template Padrão](docs/template.md) | ✅ |
