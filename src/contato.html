@@ -5,9 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link rel="stylesheet" type="text/css" href="meuestilo.css" />
+    <link rel="stylesheet" type="text/css" href="formulario.css" />
     <p style="text-align: center;">
       <img src="img/LOGO.png" alt="Logo" width="200px" />
     </p>
+    <script src="formulario.js"></script>
   </head>
   <body>
     <div class="principal">
@@ -24,19 +26,24 @@
       <div class="corpo">
         <div class="artigos">
           <div class="espacamento">
-            Contato:
-            <br />
-            <br />
+            <h1>Entre em contato</h1>
 
-            Jean Gabriel Da Silva Lima:<br />
-            Telefone: (17) 99680-9796<br />
-            Email: jeangabrielslima@gmail.com
+            
+            <input type="text" id="nomeid" placeholder="Tiago Vale" required="required" name="nome" />
+            <label for="nome"> - Nome</label>
+            <br><br>
+            
+            <input type="tel" id="foneid" placeholder="(xx)xx-xx-xx-xx" name="fone" />
+            <label for="fone"> - Fone</label>
+            <br><br>
+            
+            <input type="email" id="emailid" placeholder="fulano@mail.com" name="email" />
+            <label for="email"> - Email</label>
 
-            <br /><br />
-
-            Rafael Alves Faria<br />
-            Telefone: (31) 97531-5234<br />
-            Email: rafael.faria1502@gmail.com
+            <br><br>
+            <textarea placeholder="Deixe sua opnião"></textarea>
+            <br>
+            <a  href="https://api.whatsapp.com/send?phone=5517996809796&text=Olá Jean "><input type="submit" class="enviar" onclick="Enviar();" value="Enviar" /></a>   
           </div>
         </div>
         <div class="barra-lateral">
