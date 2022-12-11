@@ -5,8 +5,7 @@ Selecionando abas do menu conforme escolha do usuário;
 
 
 https://user-images.githubusercontent.com/107358955/206931019-99dcf303-01e8-42e0-ad16-63626a2c4859.mp4
-
-
+ 
  
 ## Ferramentas de Testes (Opcional)
 
