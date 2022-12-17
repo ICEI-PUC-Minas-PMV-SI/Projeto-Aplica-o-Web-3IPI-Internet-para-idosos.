@@ -1,6 +1,6 @@
 # Apresentação
 
-Detalhes do que foi trabalho, no que foi baseado, e qual o objetivo principal do que foi feito.
+Detalhes do que foi o trabalho, no que foi baseado, e qual o objetivo principal do que foi feito.
 
 ![Apresentação](https://user-images.githubusercontent.com/107358955/208269280-ec02db30-3390-4254-ac42-6b2feacebee3.png)
 
