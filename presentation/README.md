@@ -4,7 +4,10 @@ Conjunto de slides em um arquivo PowerPoint ou PDF com a apresentação do proje
 
 ## Título do Projeto
 
-Nome e marca do projeto
+Portal 3ª IPI
+
+![LOGO](https://user-images.githubusercontent.com/107358955/208269019-dfc6b4af-420f-47f2-b8f7-635399f337b1.png)
+
 
 ## Identidade Visual (Marca, Design)
 
