@@ -1,6 +1,9 @@
 # Apresentação
 
-Conjunto de slides em um arquivo PowerPoint ou PDF com a apresentação do projeto contemplando todos os itens trabalhados nos demais artefatos.
+Detalhes do que foi trabalho, no que foi baseado, e qual o objetivo principal do que foi feito.
+
+![Apresentação](https://user-images.githubusercontent.com/107358955/208269280-ec02db30-3390-4254-ac42-6b2feacebee3.png)
+
 
 ## Título do Projeto
 
